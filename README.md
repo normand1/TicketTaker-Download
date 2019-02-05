@@ -7,7 +7,7 @@ TicketTaker can help you manage tickets within your workflow easily. TicketTaker
 1) Open the "Settings" drop down in Ticket Taker
 2) Add the base url for the site you'd like to gather tickets from (example: https://github.com/swagger-api/swagger-codegen/pull/)
 
-https://github.com/normand1/TicketTaker-Download/blob/master/gifs/TicketTaker-GetStarted.gif
+![Get Started](https://github.com/normand1/TicketTaker-Download/blob/master/gifs/TicketTaker-GetStarted.gif)
 
 ## Examples
 
