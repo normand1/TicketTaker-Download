@@ -2,6 +2,13 @@
 
 TicketTaker can help you manage tickets within your workflow easily. TicketTaker keeps track of tickets you're currently working with in your browser so you can quickly access references to them from the app or from the TouchBar.
 
+## Get Started
+
+1) Open the "Settings" drop down in Ticket Taker
+2) Add the base url for the site you'd like to gather tickets from (example: https://github.com/swagger-api/swagger-codegen/pull/)
+
+https://github.com/normand1/TicketTaker-Download/blob/master/gifs/TicketTaker-GetStarted.gif
+
 ## Examples
 
 ## Github
